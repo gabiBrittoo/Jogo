@@ -4,7 +4,7 @@
 /*Adicionando uma imagem de fundo fixa e tamanho que cubra todo a tela*/
 body{
     font-family: 'Poppins', sans-serif;
-    background-image: url(../img/FundoPadrao.png); /*Imagem de fundo da aba*/
+    background-image: url(FundoPadrao.png); /*Imagem de fundo da aba*/
     background-attachment: fixed;
     background-size: cover;
 }
